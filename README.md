@@ -26,7 +26,7 @@ The objective is to help EV fleet businesses make data-driven decisions by ident
 
 ## 📊 Dashboard Preview
 
-![EV Fleet Analytics Dashboard](Dashboard/Dashboard.png)
+![EV Fleet Analytics Dashboard](Dashboard.png)
 
 ## Dashboard Visuals
 
